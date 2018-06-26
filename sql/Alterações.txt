@@ -1,0 +1,23 @@
+Nomes atualizados
+
+user = usuarios
+user_id = us_id
+user_name = us_nome 
+user_pass = us_pass
+user_email = us_email
+user_date = us_data
+user_level = user_level
+
+categories = categorias
+cat_name = cat_nome
+cat_description = cat_desc
+
+topics = topicos
+topic_subject = topic_assunto
+topic_date = topic_data
+topic_by = topic_aut
+
+
+post_content = post_cont
+post_date = post_data
+post_by = post_aut
